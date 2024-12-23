@@ -1,6 +1,10 @@
 <image src="image/2024-12-23_16-28-35.png" alt="PORTFOLIO">
 
 # Hi everyone! I'm Sandra, QA Engineer with experience in manual testing and UI/E2E automation testing of web applications using Playwright and Cypress with JavaScript.
+
+Take a look at the **qalexandra** repository, which contains examples of test cases for test automation, covering various scenarios and approaches, as well as a configured environment for easy setup and execution of tests. On my GitHub and LinkedIn pages, you can learn more about me. I would be happy to connect, share experiences and knowledge, and support each other's professional growth and development.
+
+
   
 ![](https://komarev.com/ghpvc/?username=Sandarella)
 <!--
@@ -16,6 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandarella&theme=solarized_dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandarella&repo=qalexandra)](https://github.com/Sandarella/qalexandra)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandarella&repo=qalexandra)](https://github.com/Sandarella/qalexandra) -->
