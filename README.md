@@ -6,7 +6,7 @@ Take a look at the **qalexandra** repository, which contains examples of test ca
 
 
   
-![](https://komarev.com/ghpvc/?username=Sandarella) [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka) 
+![](https://komarev.com/ghpvc/?username=Sandar) [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka) 
 <!--
 **Sandarella/Sandarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandarella&theme=solarized_dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandarella&repo=qalexandra)](https://github.com/Sandarella/qalexandra) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandarella&repo=qalexandra)](https://github.com/Sandarella/qalexandra) 
