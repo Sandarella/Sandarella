@@ -1,4 +1,4 @@
-<image src="image/ banner.png" alt="PORTFOLIO">
+<image src="image/banner.jpg" alt="PORTFOLIO">
 
 # Hi everyone! I'm Sandra, QA Engineer with experience in manual testing and UI/E2E automation testing of web applications using Playwright and Cypress with JavaScript.
 
