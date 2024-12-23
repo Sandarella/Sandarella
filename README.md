@@ -6,7 +6,7 @@ Take a look at the **qalexandra** repository, which contains examples of test ca
 
 
   
-![](https://komarev.com/ghpvc/?username=Sandarella)
+![](https://komarev.com/ghpvc/?username=Sandarella) [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka) 
 <!--
 **Sandarella/Sandarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
