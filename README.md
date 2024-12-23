@@ -1,4 +1,6 @@
 <image src="image/2024-12-23_16-28-35.png" alt="PORTFOLIO">
+
+# Hi everyone! I'm Sandra, QA Engineer with experience in manual testing and UI/E2E automation testing of web applications using Playwright and Cypress with JavaScript.
   
 ![](https://komarev.com/ghpvc/?username=Sandarella)
 <!--
