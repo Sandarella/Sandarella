@@ -2,7 +2,7 @@
 
 # Hi everyone! I'm Sandra, QA Engineer with experience in manual testing and UI/E2E automation testing of web applications using Playwright and Cypress with JavaScript.
 
-Take a look at the **qalexandra** repository, which contains examples of test cases for test automation, covering various scenarios and approaches, as well as a configured environment for easy setup and execution of tests. On my GitHub and LinkedIn pages, you can learn more about me. I would be happy to connect, share experiences and knowledge, and support each other's professional growth and development.
+Take a look at the **qalexandra** repository, which contains examples of test cases for test automation, covering various scenarios and approaches, as well as a configured environment for easy setup and execution of tests. On my Github Pages and LinkedIn pages, you can learn more about me. I would be happy to connect, share experiences and knowledge, and support each other's professional growth and development.
 
 
   
