@@ -1,4 +1,5 @@
-## Hi there 👋
+<image src="image/2024-12-23_16-28-35.png" alt="PORTFOLIO">
+  
 ![](https://komarev.com/ghpvc/?username=Sandarella)
 <!--
 **Sandarella/Sandarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
