@@ -4,13 +4,8 @@
 
 Take a look at the **qalexandra** repository, which contains examples of test cases for test automation, covering various scenarios and approaches, as well as a configured environment for easy setup and execution of tests. On my Github Pages and LinkedIn pages, you can learn more about me. I would be happy to connect, share experiences and knowledge, and support each other's professional growth and development.
 
-
-  [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandarella&count_private=true&show_icons=true&theme="")](https://github.com/teuchezh) 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
-
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sandarella&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"> 
+  
 
 
 ![](https://komarev.com/ghpvc/?username=Sandarella)  [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka)   
@@ -29,4 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandarella&theme=solarized_dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandarella&repo=qalexandra)](https://github.com/Sandarella/qalexandra) --> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandarella&repo=qalexandra)](https://github.com/Sandarella/qalexandra) 
+ [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandarella&count_private=true&show_icons=true&theme="")](https://github.com/teuchezh) 
+ 
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandarella&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+--> 
