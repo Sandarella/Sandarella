@@ -4,8 +4,8 @@
 
 Take a look at the **qalexandra** repository, which contains examples of test cases for test automation, covering various scenarios and approaches, as well as a configured environment for easy setup and execution of tests. On my Github Pages and LinkedIn pages, you can learn more about me. I would be happy to connect, share experiences and knowledge, and support each other's professional growth and development.
 
-![](https://komarev.com/ghpvc/?username=Sandarella)  [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka) <a href="https://www.linkedin.com/in/qalexandra"><img height=21.5 width="90" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> 
-<a href="https://sandarella.github.io/qalexandra"><img height=21.5 width="90" src="https://img.shields.io/badge/GitHub.io--_.svg?style=social&logo=GitHub" alt="GitHub"> 
+![](https://komarev.com/ghpvc/?username=Sandarella)  [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka) <a href="https://www.linkedin.com/in/qalexandra"><img height=21.5 width="auto" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> 
+<a href="https://sandarella.github.io/qalexandra"><img height=21.5 width="autu" src="https://img.shields.io/badge/GitHub.io--_.svg?style=social&logo=GitHub" alt="GitHub"> 
 
   
  
