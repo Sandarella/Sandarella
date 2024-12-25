@@ -2,7 +2,7 @@
 
 # Hi everyone! I'm Sandra, QA Engineer with experience in manual testing and UI/E2E automation testing of web applications using Playwright and Cypress with JavaScript.
 
-I plan to enrich the qalexandra repository with examples of test scenarios for automation testing and configure an environment for seamless test execution. You can learn more about me on my GitHub.io and LinkedIn pages. I would be delighted to connect with you, share experiences and knowledge, and support your professional growth and development.
+I plan to enrich the **qalexandra** repository with examples of test scenarios for automation testing and configure an environment for seamless test execution. You can learn more about me on my GitHub.io and LinkedIn pages. I would be delighted to connect with you, share experiences and knowledge, and support your professional growth and development.
 
 ![](https://komarev.com/ghpvc/?username=Sandarella)  [![codewars](https://www.codewars.com/users/Buryatka/badges/micro)](https://www.codewars.com/users/Buryatka) <a href="https://www.linkedin.com/in/qalexandra"><img height=21.5 width="auto" src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"> 
 <a href="https://sandarella.github.io/qalexandra"><img height=21.5 width="autu" src="https://img.shields.io/badge/GitHub.io--_.svg?style=social&logo=GitHub" alt="GitHub"> 
